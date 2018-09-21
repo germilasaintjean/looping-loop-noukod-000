@@ -3,7 +3,7 @@ def looping
     puts "Wingardium Leviosa"
   end
 end
-m = loopinp.new()
+m = loop.new()
 
 
 	#`your code hereend
